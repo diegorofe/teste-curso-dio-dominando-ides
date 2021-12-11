@@ -1,6 +1,6 @@
-#Iniciando programação oritenta a objetos
+# Iniciando programação oritenta a objetos
 
-###Descrição
+### Descrição
 
 - Código desenvolvido em Java com a IDE InteliJ;
   Neste exercício trabalhei os conceitos de orientação a objeto.
